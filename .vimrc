@@ -1,0 +1,11 @@
+syntax on
+set encoding=utf-8
+set autoindent
+set smartindent
+set tabstop=4
+set shiftwidth=4
+set number
+set showmatch
+set showcmd
+set showmode
+set history=100
